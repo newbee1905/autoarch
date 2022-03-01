@@ -33,7 +33,7 @@ reset=$(tput sgr0)
 
 ## OPTIONS
 user="demonkingswarn"
-host="rt"
+host="dystopia"
 timezone="Asia/Kolkata"
 boot="/dev/sda1"
 swap="/dev/sda2"
