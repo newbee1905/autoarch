@@ -32,9 +32,9 @@ green=$(tput setaf 2)
 reset=$(tput sgr0)
 
 ## OPTIONS
-user="whine"
-host="blackspace"
-timezone="Asia/Manila"
+user="demonkingswarn"
+host="rt"
+timezone="Asia/Kolkata"
 boot="/dev/sda1"
 swap="/dev/sda2"
 root="/dev/sda3"
