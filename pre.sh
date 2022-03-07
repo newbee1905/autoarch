@@ -4,7 +4,8 @@
 #                                                                             #
 # autoarch: auto-install stuff                                                #
 # Copyright (C) 2022 71zenith                                                 #
-# Copyright (C) 2022 whinee                                                   #
+# Copyright (C) 2022 whinee
+# Copyright (C) 2022 DemonKingSwarn
 #                                                                             #
 # This program is free software: you can redistribute it and/or modify        #
 # it under the terms of the GNU General Public License as published by        #
