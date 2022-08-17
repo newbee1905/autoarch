@@ -107,18 +107,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# **Credits**
-
-## Icons
-
-<a target="_blank" href="https://icons8.com/icon/102502/exclamation-mark">Exclamation Mark</a>, <a target="_blank" href="https://icons8.com/icon/33294/code-fork">Code Fork</a>, <a target="_blank" href="https://icons8.com/icon/85185/star">Star</a>, <a target="_blank" href="https://icons8.com/icon/34095/group">Group</a>, and <a target="_blank" href="https://icons8.com/icon/87276/code">Code</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<sub>
-    <i>
-        <b>NOTE:</b> If a reference or source material is not attributed properly or not at all, please kindly <a target="_blank" href="https://github.com/whinee/autoarch/issues/new">raise an issue</a> so I can properly give credit to their respective authors.
-    </i>
-</sub>
-
 <!----------------------------------------------------------------------------->
 
 [Pull Requests]: https://github.com/newbee1905/autoarch/pulls
