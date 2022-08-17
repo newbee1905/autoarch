@@ -80,8 +80,6 @@ The body must contain the following:
 
 # License
 
-## GPLv3
-
 ## <a target="_blank" href="https://choosealicense.com/licenses/gpl-3.0/">GPLv3</a>
 
 autoarch: auto-install stuff
