@@ -31,7 +31,7 @@ This project is still a work-in-progress.
 
 ## *Warning*
 
-As stated on the original repository, this project, and thus the script, is tailored towards the developer's needs. Feel free to fork if your needs differ from the developers'.
+⚠️ As stated on the original repository, this project, and thus the script, is tailored towards the developer's needs. Feel free to fork if your needs differ from the developers'.
 
 ## *License*
 
