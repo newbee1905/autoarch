@@ -5,7 +5,6 @@
 <br>
 
 [![Badge License]][License] 
-![Badge Lines] 
 ![Badge Language] 
 [![Badge Pull Requests]][Pull Requests] 
 [![Badge Issues]][Issues] 
@@ -51,11 +50,9 @@ If you know how to properly attribute the original author of the script, please 
 
 When you are in the ARCH ISO, run the following command in your terminal screen.
 
-
 ```sh
-curl -L github.com/demonkingswarn/autoarch/raw/master/pre.sh|sh -s "passwd"
+curl -L github.com/newbee1905/autoarch/raw/master/pre.sh|sh -s "your_password_here"
 ```
-with "passwd" being your password.
 
 </details>
 
@@ -130,8 +127,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 <!----------------------------------{ Badges }--------------------------------->
 
-[Badge Issues]: https://img.shields.io/github/issues/newbee1905/autoarch
-[Badge Pull Requests]: https://img.shields.io/github/issues-pr/newbee1905/autoarch
-[Badge Language]: https://img.shields.io/github/languages/top/newbee1905/autoarch
-[Badge License]: https://img.shields.io/github/license/newbee1905/autoarch
-[Badge Lines]: https://img.shields.io/tokei/lines/github/newbee1905/autoarch
+[Badge Issues]: https://img.shields.io/github/issues/newbee1905/autoarch?style=for-the-badge
+[Badge Pull Requests]: https://img.shields.io/github/issues-pr/newbee1905/autoarch?style=for-the-badge
+[Badge Language]: https://img.shields.io/github/languages/top/newbee1905/autoarch?style=for-the-badge
+[Badge License]: https://img.shields.io/github/license/newbee1905/autoarch?style=for-the-badge
